@@ -36,3 +36,10 @@ x/nfu addr #以f格式打印从addr开始的n个长度单元为u的内存值
 # u:b:byte，h:两个byte，w：四个byte，g：八个byte
 ```
 
+6、列出所有的函数
+
+```bash
+gdb functions (regex)
+# reges可选，可列出符合正则表达式的函数名
+```
+
