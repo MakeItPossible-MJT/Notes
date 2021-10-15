@@ -38,3 +38,16 @@ conn.interactive()
 ```python
 p64(position)
 ```
+
+7、把汇编代码汇编为机器码
+
+```python
+asm('mov eas, 0')
+```
+
+8、向程序传递参数
+
+```python
+conn = process(argv = ['./program', argv[1], argv[2]])
+```
+

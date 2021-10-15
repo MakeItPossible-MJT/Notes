@@ -8,3 +8,9 @@ ctrl + `
 ctrl + shift + ` 
 ```
 
+2、切换到第1个工作区
+
+```bash
+ctrl + 1
+```
+

@@ -15,9 +15,9 @@ r < input.txt
 3、单步执行
 
 ```bash
-n # 不进入函数
-s # 进入函数
-f # 执行完函数
+n # 不进入函数 nexti
+s # 进入函数 stepi
+f # 执行完函数 finish
 ```
 
 4、查询函数地址
